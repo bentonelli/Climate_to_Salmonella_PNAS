@@ -1,0 +1,181 @@
+ID,spec,Passerine,Species,Bird
+1,Laughing Gull,0,1,1
+2,Royal Tern,0,1,1
+3,Great Blue Heron,0,1,1
+4,Brown-headed Cowbird,1,1,1
+5,House Sparrow,1,1,1
+6,Great Black-backed Gull,0,1,1
+7,Double-crested Cormorant,0,1,1
+8,Herring Gull,0,1,1
+9,Willet,0,1,1
+10,Northern Cardinal,1,1,1
+11,Red-winged Blackbird,1,1,1
+12,American White Pelican,0,1,1
+13,Ring-billed Gull,0,1,1
+14,Mallard,0,1,1
+15,Red Crossbill,1,1,1
+16,American Goldfinch,1,1,1
+17,Pine Siskin,1,1,1
+18,Unidentified Finch,1,0,1
+19,Northern Mockingbird,1,1,1
+20,Unidentified Avian,0,0,1
+21,Hermit Thrush,1,1,1
+22,Purple Finch,1,1,1
+23,Turkey (Wild),0,1,1
+24,Unidentified Passerine,1,0,1
+25,Lesser Goldfinch,1,1,1
+26,Unidentified Sparrow,1,0,1
+27,Western Bluebird,1,1,1
+28,Evening Grosbeak,1,1,1
+29,House Finch,1,1,1
+30,Great Egret,0,1,1
+31,Unidentified Duck,0,0,1
+32,Franklin's Gull,0,1,1
+33,Unidentified Sandpiper,0,0,1
+34,Green-winged Teal,0,1,1
+35,Blue-winged Teal,0,1,1
+36,Stilt Sandpiper,0,1,1
+37,Gadwall,0,1,1
+38,Northern Pintail,0,1,1
+39,Northern Shoveler,0,1,1
+40,Semipalmated Sandpiper,0,1,1
+41,Canada Goose,0,1,1
+42,Unidentified Gull,0,1,1
+43,Common Redpoll,1,1,1
+44,Unidentified Wren,1,0,1
+45,Unidentified Blackbird/Icterid,1,0,1
+46,Unidentified Dove,0,1,1
+47,Black Skimmer,0,1,1
+48,Unidentified Seabird,0,0,1
+49,American Coot,0,1,1
+50,Western Gull,0,1,1
+51,Black-crowned Night-Heron,0,1,1
+52,California Gull,0,1,1
+53,Western Grebe,0,1,1
+54,Sanderling,0,1,1
+55,Piping Plover,0,1,1
+56,Common Tern,0,1,1
+57,Beaver,0,0,0
+58,Bullfrog,0,0,0
+59,Painted Turtle,0,1,0
+60,Muskrat,0,0,0
+61,Unidentified Water Snake,0,0,0
+62,Virginia Opossum,0,1,0
+63,Eared Grebe,0,1,1
+64,Redhead Duck,0,1,1
+65,Unidentified Shorebird,0,0,1
+66,Unidentified Heron,0,0,1
+67,Snowy Egret,0,1,1
+68,Cattle Egret,0,1,1
+69,Unidentified Egret,0,0,1
+70,Cassin's Finch,1,1,1
+71,Black-capped Chickadee,1,1,1
+72,Canvasback,0,1,1
+73,Lesser Scaup,0,1,1
+74,American Wigeon,0,1,1
+75,American Avocet,0,1,1
+76,Killdeer,0,1,1
+77,Marbled Godwit,0,1,1
+78,Common Eider,0,1,1
+79,Common Murre,0,1,1
+80,Crested Auklet,0,1,1
+81,Glaucous Gull,0,1,1
+82,Glaucous-winged Gull,0,1,1
+83,Northern Fulmar,0,1,1
+84,Thick-billed Murre,0,1,1
+85,Red-bellied Woodpecker,0,1,1
+86,Unidentified Grackle,1,0,1
+87,White-throated Sparrow,1,1,1
+88,White-faced Ibis,0,1,1
+89,Unidentified Duck or Goose,0,0,1
+90,Wood Duck,0,1,1
+91,Ruddy Duck,0,1,1
+92,Unidentified Waterfowl,0,0,1
+93,Bufflehead,0,1,1
+94,Horned Grebe,0,1,1
+95,Purple Martin,1,1,1
+96,Eastern Bluebird,1,1,1
+97,Unidentified Sandhill Crane,0,0,1
+98,Great Cormorant,0,1,1
+99,Least Tern,0,1,1
+100,American Tree Sparrow,1,1,1
+101,Fox Sparrow,1,1,1
+102,Semipalmated Plover,0,1,1
+103,Audubon's Warbler (Yellow-rumped),1,1,1
+104,Unidentified Bluebird,1,0,1
+105,Unidentified Swallow,1,0,1
+106,Western Tanager,1,1,1
+107,Eurasian Collared Dove,1,1,1
+108,Ringed Turtle-dove,1,1,1
+109,American Robin,1,1,1
+110,Eastern Tufted Titmouse,1,1,1
+111,Indigo Bunting,1,1,1
+112,Blue Jay,1,1,1
+113,Eastern Phoebe,1,1,1
+114,Caspian Tern,0,1,1
+115,Unidentified Pigeon,0,0,1
+116,Unidentified Woodpecker,0,0,1
+117,Mourning Dove,1,1,1
+118,Collared Peccary (Javelina),0,1,0
+119,European Starling,1,1,1
+120,Roseate Tern,0,1,1
+121,Unidentified Cowbird,1,0,1
+122,Unidentified Scaup,0,0,1
+123,Yellow-breasted Chat,1,1,1
+124,Forster's Tern,0,1,1
+125,American Crow,1,1,1
+126,Red-tailed Hawk,0,1,1
+127,Eastern Narrow-mouthed Toad,0,1,0
+128,Green Treefrog,0,1,0
+129,Southern Leopard Frog,0,1,0
+130,Brown Pelican,0,1,1
+131,Domestic Cat,0,1,0
+132,Yellow-footed Gull,0,1,1
+133,Unidentified Grosbeak,1,0,1
+134,Unidentified Yellowlegs,0,1,1
+135,Pied-billed Grebe,0,1,1
+136,Unidentified Dowitcher,0,0,1
+137,Unidentified Rail,0,0,1
+138,Unidentified Tern,0,0,1
+139,Ring-necked Duck,0,1,1
+140,American Bittern,0,1,1
+141,Ruddy Turnstone,0,1,1
+142,Northern Harrier,0,1,1
+143,Wilson's Phalarope,0,1,1
+144,Chipping Sparrow,1,1,1
+145,Dark-eyed Junco,1,1,1
+146,Pine Grosbeak,1,1,1
+147,Brown Creeper,1,1,1
+148,Downy Woodpecker,0,1,1
+149,Western Sandpiper,0,1,1
+150,Black-necked Stilt,0,1,1
+151,Common Loon,0,1,1
+152,Clark's Grebe,0,1,1
+153,Whimbrel,0,1,1
+154,Ross' Goose,0,1,1
+155,Snow Goose,0,1,1
+156,Black Brant,0,1,1
+157,Bonaparte's Gull,0,1,1
+158,Cinnamon Teal,0,1,1
+159,Common Gallinule,0,1,1
+160,Gull-billed Tern,0,1,1
+161,Red-breasted Merganser,0,1,1
+162,Red-necked Phalarope,0,1,1
+163,Surf Scoter,0,1,1
+164,Turkey Vulture,0,1,1
+165,Black-bellied Plover,0,1,1
+166,Black Tern,0,1,1
+167,Green-backed (Little Green) Heron,0,1,1
+168,Long-billed Curlew,0,1,1
+169,Cedar Waxwing,1,1,1
+170,Red-headed Woodpecker,0,1,1
+171,Chestnut-backed Chickadee,1,1,1
+172,Rufous-sided (Eastern) Towhee,1,1,1
+173,Song Sparrow,1,1,1
+174,Unidentified Grebe,0,1,1
+175,Greater Snow Goose,0,1,1
+176,Northern Gannet,0,1,1
+177,Clapper Rail,0,1,1
+178,Unidentified Loon,0,1,1
+179,Audubon's Shearwater,0,1,1
+180,Great-tailed Grackle,1,1,1

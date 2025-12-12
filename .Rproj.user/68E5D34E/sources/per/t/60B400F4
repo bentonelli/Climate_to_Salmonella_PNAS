@@ -1,0 +1,26 @@
+{
+    "id": "60B400F4",
+    "path": "~/Documents/Coding/R/Main/Climate_to_Salmonella_R2/code/4_predictive_analysis/4a_predictive_scoring.R",
+    "project_path": "code/4_predictive_analysis/4a_predictive_scoring.R",
+    "type": "r_source",
+    "hash": "3814010688",
+    "contents": "",
+    "dirty": false,
+    "created": 1762965428692.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "126,58",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1759344281,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1759344281,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "5C6B18D6",
+    "path": "~/Documents/Coding/R/Main/Climate_to_Salmonella_R2/code/2_model_run/2a_cmid.stan",
+    "project_path": "code/2_model_run/2a_cmid.stan",
+    "type": "stan",
+    "hash": "442675020",
+    "contents": "",
+    "dirty": false,
+    "created": 1758723328549.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,19",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1758797504,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1758797504324,
+    "read_only": false,
+    "read_only_alternatives": []
+}
