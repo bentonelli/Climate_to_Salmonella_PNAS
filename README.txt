@@ -1,5 +1,7 @@
 README for Tonelli et al. 2025
 
+The main model output file, data/4_model_out/mdl_fit.rds is available only on Zenodo due to large file size. https://doi.org/10.5281/zenodo.17914985
+
 Please note that some data files used to conduct this analysis need to be download from external sources due to copyright or other restrictions. As a result, some intermediate data files created in the analysis retain some original data. We indicate these data files with the following notation:
 
 * Indicates when data needs to be downloaded from external sources. Links provided.
